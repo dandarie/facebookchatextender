@@ -15,6 +15,5 @@
 // @grant         GM_getResourceText
 // @run-at        document-start
 // ==/UserScript==
-
 var ChatCSS = GM_getResourceText ("CustomCSS");
 GM_addStyle (ChatCSS);
