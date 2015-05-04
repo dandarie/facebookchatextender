@@ -1,0 +1,44 @@
+.fbNubFlyoutBody {
+    height: 500px !important;
+    max-height: 510px !important;
+    width: 350px !important;
+    border-width: 0px !important;
+}
+
+.fbNubFlyoutTitlebar {
+    border: 1px solid rgba(93, 118, 176, 0.0) !important;
+}
+
+.fbNubFlyoutInner, .fbNubFlyoutOuter, .fbNubFlyout {
+    height: 580px !important;
+    width: 350px !important;
+}
+
+.fbNubFlyoutFooter {
+    border-width: 0px !important;
+}
+
+._5w1r, ._5wdf, ._3okg {
+    width: auto !important;
+    max-width: 300px !important;
+}
+
+._552n {
+    width: 40% !important;
+    padding-bottom: 8px !important;
+    padding-right: 14px !important;
+}
+
+._552h {
+    max-height: 44px !important;
+    min-height: 44px !important;
+    padding-top: 3px !important;
+}
+
+._552o {
+    margin-right: -2px !important;
+}
+
+._50-v {
+    margin-left: 95px !important;
+}
