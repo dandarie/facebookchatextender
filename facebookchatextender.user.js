@@ -11,7 +11,6 @@
 // @include       http://www.facebook.com/*
 // @author        iHydra
 // @resource      CustomCSS https://github.com/iHydra/facebookchatextender/raw/master/stylesheet_0.0.1.css
-// @require       http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js
 // @grant         GM_addStyle
 // @grant         GM_getResourceText
 // @run-at        document-start
