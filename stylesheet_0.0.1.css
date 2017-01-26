@@ -1,7 +1,7 @@
 .fbNubFlyoutBody {
     height: 500px !important;
     max-height: 510px !important;
-    width: 380px !important;
+    width: 400px !important;
     border-width: 0px !important;
 }
 
@@ -11,7 +11,7 @@
 
 .fbNubFlyoutInner, .fbNubFlyoutOuter, .fbNubFlyout {
     height: 580px !important;
-    width: 350px !important;
+    width: 400px !important;
 }
 
 .fbNubFlyoutFooter {
